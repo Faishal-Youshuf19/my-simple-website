@@ -1,5 +1,8 @@
 div {
   background-color: tomato;
-  padding: 10px;
+  padding: 20px;
   margin-bottom: 10px;
+}
+div:empty {
+  display: none;
 }
